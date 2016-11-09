@@ -1,6 +1,6 @@
 # projets_processing
 
-deux sous dossiers :
+
 
 animations graphiques
 
