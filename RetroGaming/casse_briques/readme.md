@@ -1,1 +1,1 @@
-![casse_briques](casse_briques1.png)
+![casse_briques](casse-briques1.png)
