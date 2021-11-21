@@ -1,6 +1,7 @@
 /*
 oscilloscope minimaliste avec un arduino
- récupère et affiche les valeurs via une liaison serie
+ récupère et affiche le signal via une liaison serie
+ donne l"équivalent de la valeur numérique en volt 
  version 1.0
  L.Chastain
  http://moncoursdetechno.ovh
